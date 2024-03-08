@@ -16,7 +16,7 @@ Our research, which involves generating and employing this dataset to uncover th
 ## Database
 The database is available in .csv format, encompassing properties like band gap, enthalpy, and total energy, as well as structural features including octahedral tilting, lattice parameters, and Pb-I bond lengths, ensuring comprehensive access to the data. CIF files for CGCNN and ALIGNN predictions have been uploaded.
 
-## ML_Models
+## Pre-trained ML Models
 This repository includes four pre-trained ML models:
 * Two classical models, **linear regression** and **random forest**, which users can easily apply using the provided Python code.
 * Two advanced graph neural network (GNN) models, the **Crystal Graph Convolutional Neural Network (CGCNN)** and the **Atomistic Line Graph Neural Network (ALIGNN)**.
