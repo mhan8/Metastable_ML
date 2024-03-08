@@ -7,7 +7,7 @@ Our research, which involves generating and employing this dataset to uncover th
 - [Database](#Database)
   * [Pressure](https://github.com/mhan8/Metastable_ML/tree/main/Database/Pressure)
   * [Strain](https://github.com/mhan8/Metastable_ML/tree/main/Database/Strain)
-- [Pre-trained ML Models](#ML_Models)
+- [Pre-trained ML Models](#Pre-trained ML Models)
   * [ALIGNN](https://github.com/mhan8/Metastable_ML/tree/main/ML_Models/ALIGNN)
   * [CGCNN](https://github.com/mhan8/Metastable_ML/tree/main/ML_Models/CGCNN)
   * [Linear_regression](https://github.com/mhan8/Metastable_ML/tree/main/ML_Models/Linear_regression)
