@@ -3,7 +3,7 @@ This repository houses a comprehensive database for pressure- and strain-tuned m
 
 Our research, which involves generating and employing this dataset to uncover the structure-property relationships within perturbed metastable halide perovskite systems through the application of various ML models, is detailed in the subsequent paper:
 
-## Tables of Contents
+## Table of Contents
 - [Database](#Database)
   * [Pressure](https://github.com/mhan8/Metastable_ML/tree/main/Database/Pressure)
   * [Strain](https://github.com/mhan8/Metastable_ML/tree/main/Database/Strain)
