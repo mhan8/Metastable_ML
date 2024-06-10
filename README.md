@@ -16,6 +16,10 @@ Our research, which involves generating and employing this dataset to uncover th
 ## Database
 The database is available in .csv format, encompassing properties like band gap, enthalpy, and total energy, as well as structural features including octahedral tilting, lattice parameters, and Pb-I bond lengths, ensuring comprehensive access to the data. CIF files for CGCNN and ALIGNN predictions have been uploaded.
 
+<p align="center">
+<img src="https://github.com/mhan8/Metastable_ML/assets/118029423/346c5186-3caa-4e59-b166-7041aa954c82" height="500">
+</p>
+
 ## Pre-trained ML Models
 This repository includes four pre-trained ML models:
 * Two classical models, **linear regression** and **random forest**, which users can easily apply using the provided Python code.
